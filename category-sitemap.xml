@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://aivugar.github.io/vugarpro/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.16' -->
-<!-- generated-on='1 January 2024 23:43' -->
+<!-- generated-on='1 January 2024 23:46' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://aivugar.github.io/vugarpro/category/academic-research/</loc>
 		<lastmod>2023-12-18T00:52:25+00:00</lastmod>
@@ -30,4 +30,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
-</urlset><!-- Request ID: bc8d5e8bce68f52571c9e644f8aaec44; Queries for sitemap: 8; Total queries: 76; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 16MB -->
+</urlset><!-- Request ID: 4008465fa0d076b8ace46a20bf865fe4; Queries for sitemap: 8; Total queries: 68; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 16MB -->
