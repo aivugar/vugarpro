@@ -1,2 +1,0 @@
-# vugarpro
-Vugar Pro
