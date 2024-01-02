@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Education &#8211; vugar.pro</title>
+	<atom:link href="https://aivugar.github.io/vugarpro/category/education/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aivugar.github.io/vugarpro/</link>
+	<description>Tutorials and Tips ✦ ChatGPT &#38; Artificial Intelligence Tools for Academic Research &#38; Writing</description>
+	<lastBuildDate>Thu, 28 Dec 2023 13:02:37 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Data Science Course FREE for Beginners by Azure Cloud Advocates at Microsoft</title>
+		<link>https://aivugar.github.io/vugarpro/free-data-science-course-for-beginners-by-microsoft/</link>
+					<comments>https://aivugar.github.io/vugarpro/free-data-science-course-for-beginners-by-microsoft/#respond</comments>
+		
+		<dc:creator><![CDATA[Vugar Ibrahimov]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 15:27:17 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Azure Cloud Advocates]]></category>
+		<category><![CDATA[beginners]]></category>
+		<category><![CDATA[data science]]></category>
+		<guid isPermaLink="false">https://aivugar.github.io/vugarpro/?p=137</guid>
+
+					<description><![CDATA[What is a Data Science Course? &#8230;<p class="read-more"> <a class="ast-button" href="https://aivugar.github.io/vugarpro/free-data-science-course-for-beginners-by-microsoft/"> <span class="screen-reader-text">Data Science Course FREE for Beginners by Azure Cloud Advocates at Microsoft</span> Read More »</a></p>]]></description>
+		
+					<wfw:commentRss>https://aivugar.github.io/vugarpro/free-data-science-course-for-beginners-by-microsoft/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
