@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>reading strategies &#8211; vugar.pro</title>
+	<atom:link href="https://aivugar.github.io/vugarpro/tag/reading-strategies/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aivugar.github.io/vugarpro/</link>
+	<description>Tutorials and Tips ✦ ChatGPT &#38; Artificial Intelligence Tools for Academic Research &#38; Writing</description>
+	<lastBuildDate>Thu, 28 Dec 2023 12:42:09 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>PDF AI: Chat with any PDF document Powered &#124; GPT-4 support</title>
+		<link>https://aivugar.github.io/vugarpro/pdf-ai-chat-with-documents-artificial-intelligence/</link>
+					<comments>https://aivugar.github.io/vugarpro/pdf-ai-chat-with-documents-artificial-intelligence/#respond</comments>
+		
+		<dc:creator><![CDATA[Vugar Ibrahimov]]></dc:creator>
+		<pubDate>Wed, 20 Dec 2023 19:40:27 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[PDFs]]></category>
+		<category><![CDATA[reading strategies]]></category>
+		<guid isPermaLink="false">https://aivugar.github.io/vugarpro/?p=107</guid>
+
+					<description><![CDATA[What is PDF AI? PDF AI is a technology that uses artificial intelligence to analyze and extract data from PDF documents. It can help students and academic researchers in several ways. For instance, it can help them to quickly search for specific information within a document, extract data from tables, and summarize lengthy texts. PDF [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://aivugar.github.io/vugarpro/pdf-ai-chat-with-documents-artificial-intelligence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
