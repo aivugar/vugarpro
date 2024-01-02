@@ -1,0 +1,435 @@
+0000.000 (0) Opened log file at time: Sun, 31 Dec 2023 14:06:08 +0000 on https://vugar.pro
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.2 PHP: 8.2.5 (litespeed, Linux us-phx-web563.main-hosting.eu 4.18.0-305.17.1.lve.el7h.x86_64 #1 SMP Wed Sep 8 04:44:37 EDT 2021 x86_64) MySQL: 10.5.19-MariaDB-cll-lve (max packet size=1073741824) WPLANG: en_GB Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 17.8M | 20M) multisite: N openssl: OpenSSL 1.1.1p  21 Jun 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.001 (0) Free space on disk containing Updraft's temporary directory: 1361804.8 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.004 (0) Semaphore (fd, wp_options) being initialised
+0000.006 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.007 (0) Set semaphore last lock (fd) time to 2023-12-31 14:06:08
+0000.007 (0) Semaphore lock (fd) complete
+0000.009 (0) Backup run: resumption=0, nonce=98a1ef4c9b17, file_nonce=98a1ef4c9b17 begun at=1704031568 (0s ago), job type=backup
+0000.010 (0) Scheduling a resumption (1) after 300 seconds (1704031868) in case this run gets aborted
+0000.036 (0) Checking if we have a zip executable available
+0000.037 (0) Testing: /usr/bin/zip
+0000.047 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.048 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.048 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.048 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.049 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.057 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.058 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.060 (0) Working binary zip found: /usr/bin/zip
+0000.061 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.061 (0) Creation of backups of directories: beginning
+0000.063 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.215 (0) Total entities for the zip file: 1388 directories, 6854 files (0 skipped as non-modified), 93.7 MB
+0000.231 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.242 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.255 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.266 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.278 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.290 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.303 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.315 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.328 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.341 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.349 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.9 MB, 6854 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0001.200 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: size is now: 5.80 MB
+0001.217 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1100 files added (on-disk size: 5988.6 KB)
+0001.232 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1200 files added (on-disk size: 5988.6 KB)
+0001.248 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1300 files added (on-disk size: 5988.6 KB)
+0001.263 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1400 files added (on-disk size: 5988.6 KB)
+0001.275 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1500 files added (on-disk size: 5988.6 KB)
+0001.286 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1600 files added (on-disk size: 5988.6 KB)
+0001.298 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1700 files added (on-disk size: 5988.6 KB)
+0001.309 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1800 files added (on-disk size: 5988.6 KB)
+0001.321 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 1900 files added (on-disk size: 5988.6 KB)
+0001.333 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2000 files added (on-disk size: 5988.6 KB)
+0001.334 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.9 MB, 6854 files batched, 1001 (2002) added so far); re-opening (prior size: 5988.6 KB)
+0002.315 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: size is now: 9.80 MB
+0002.328 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2100 files added (on-disk size: 10084.7 KB)
+0002.341 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2200 files added (on-disk size: 10084.7 KB)
+0002.353 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2300 files added (on-disk size: 10084.7 KB)
+0002.366 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2400 files added (on-disk size: 10084.7 KB)
+0002.379 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2500 files added (on-disk size: 10084.7 KB)
+0002.395 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2600 files added (on-disk size: 10084.7 KB)
+0002.409 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2700 files added (on-disk size: 10084.7 KB)
+0002.424 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2800 files added (on-disk size: 10084.7 KB)
+0002.438 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 2900 files added (on-disk size: 10084.7 KB)
+0002.452 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3000 files added (on-disk size: 10084.7 KB)
+0002.453 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.6 MB, 6854 files batched, 1001 (3003) added so far); re-opening (prior size: 10084.7 KB)
+0003.676 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3100 files added (on-disk size: 11679 KB)
+0003.692 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3200 files added (on-disk size: 11679 KB)
+0003.707 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3300 files added (on-disk size: 11679 KB)
+0003.718 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3400 files added (on-disk size: 11679 KB)
+0003.729 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3500 files added (on-disk size: 11679 KB)
+0003.741 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3600 files added (on-disk size: 11679 KB)
+0003.753 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3700 files added (on-disk size: 11679 KB)
+0003.764 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3800 files added (on-disk size: 11679 KB)
+0003.777 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 3900 files added (on-disk size: 11679 KB)
+0003.789 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4000 files added (on-disk size: 11679 KB)
+0003.791 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (22 MB, 6854 files batched, 1001 (4004) added so far); re-opening (prior size: 11679 KB)
+0005.067 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: size is now: 17.50 MB
+0005.084 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4100 files added (on-disk size: 17911.3 KB)
+0005.100 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4200 files added (on-disk size: 17911.3 KB)
+0005.116 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4300 files added (on-disk size: 17911.3 KB)
+0005.132 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4400 files added (on-disk size: 17911.3 KB)
+0005.148 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4500 files added (on-disk size: 17911.3 KB)
+0005.164 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4600 files added (on-disk size: 17911.3 KB)
+0005.181 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4700 files added (on-disk size: 17911.3 KB)
+0005.197 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4800 files added (on-disk size: 17911.3 KB)
+0005.213 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 4900 files added (on-disk size: 17911.3 KB)
+0005.229 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5000 files added (on-disk size: 17911.3 KB)
+0005.231 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8.3 MB, 6854 files batched, 1001 (5005) added so far); re-opening (prior size: 17911.3 KB)
+0005.888 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5100 files added (on-disk size: 20916.9 KB)
+0005.900 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5200 files added (on-disk size: 20916.9 KB)
+0005.915 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5300 files added (on-disk size: 20916.9 KB)
+0005.930 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5400 files added (on-disk size: 20916.9 KB)
+0005.946 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5500 files added (on-disk size: 20916.9 KB)
+0005.966 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5600 files added (on-disk size: 20916.9 KB)
+0005.981 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5700 files added (on-disk size: 20916.9 KB)
+0005.997 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5800 files added (on-disk size: 20916.9 KB)
+0006.011 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 5900 files added (on-disk size: 20916.9 KB)
+0006.026 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6000 files added (on-disk size: 20916.9 KB)
+0006.027 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.7 MB, 6854 files batched, 1001 (6006) added so far); re-opening (prior size: 20916.9 KB)
+0007.328 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: size is now: 26.70 MB
+0007.343 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6100 files added (on-disk size: 27310.5 KB)
+0007.357 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6200 files added (on-disk size: 27310.5 KB)
+0007.370 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6300 files added (on-disk size: 27310.5 KB)
+0007.383 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6400 files added (on-disk size: 27310.5 KB)
+0007.395 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6500 files added (on-disk size: 27310.5 KB)
+0007.409 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6600 files added (on-disk size: 27310.5 KB)
+0007.421 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6700 files added (on-disk size: 27310.5 KB)
+0007.433 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.tmp: 6800 files added (on-disk size: 27310.5 KB)
+0009.252 (0) Creating zip file manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.list-temp.tmp)
+0009.275 (0) Successfully created zip file manifest (size: 646916)
+0009.741 (0) Created plugins zip (0) - 32410.8 KB in 9.7 s (3349.4 KB/s) (sha1: 58fff70b0c34f180011c67913ee4e1a52411c5cf, sha256: 03be424637acca4b134020a65d4398a5228c74263950a31b19cf2470f8cbacab)
+0009.749 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0009.750 (0) No remote despatch: user chose no remote backup service
+0009.751 (0) Recording as successfully uploaded: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip
+0009.751 (0) Deleting zip manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip.list.tmp)
+0009.753 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.754 (0) Number of backup sets in history: 0; groups (db): 1
+0009.755 (0) Number of backup sets in history: 0; groups (files): 1
+0009.755 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0009.758 (0) Beginning creation of dump of themes (split every: 400 MB)
+0009.781 (0) Total entities for the zip file: 308 directories, 722 files (0 skipped as non-modified), 18.1 MB
+0009.796 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0009.811 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.826 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0009.842 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0009.857 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0009.868 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0009.880 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0011.004 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.tmp: size is now: 5.60 MB
+0011.014 (0) Creating zip file manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.list-temp.tmp)
+0011.017 (0) Successfully created zip file manifest (size: 63051)
+0011.099 (0) Created themes zip (0) - 5760.3 KB in 1.3 s (4301.1 KB/s) (sha1: 248033978db4f6f954b618fbab63ff7a4fa5b65f, sha256: 522e98a7f7e544b944ef72afba4ba810eac77d7fc28b08bf5a707431857e1aa9)
+0011.102 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.102 (0) No remote despatch: user chose no remote backup service
+0011.103 (0) Recording as successfully uploaded: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip
+0011.104 (0) Deleting zip manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip.list.tmp)
+0011.105 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0011.106 (0) Number of backup sets in history: 0; groups (db): 1
+0011.106 (0) Number of backup sets in history: 0; groups (files): 1
+0011.107 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0011.109 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0011.110 (0) Looking for candidates to backup in: /home/u659881930/domains/vugar.pro/public_html/wp-content/uploads
+0011.110 (0) finding files: eb-style: adding to list (1)
+0011.111 (0) finding files: rank-math: adding to list (2)
+0011.111 (0) finding files: 2023: adding to list (3)
+0011.111 (0) finding files: wpforms: adding to list (4)
+0011.112 (0) finding files: astra-sites: adding to list (5)
+0011.112 (0) finding files: hostinger-downloads: adding to list (6)
+0011.113 (0) finding files: wpcf7_uploads: adding to list (7)
+0011.113 (0) finding files: crm_perks_uploads: adding to list (8)
+0011.113 (0) finding files: astra-addon: adding to list (9)
+0011.114 (0) finding files: astra: adding to list (10)
+0011.114 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0011.117 (0) Total entities for the zip file: 15 directories, 56 files (0 skipped as non-modified), 19.1 MB
+0011.684 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-uploads.zip.tmp: size is now: 18.00 MB
+0011.686 (0) Creating zip file manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-uploads.zip.list-temp.tmp)
+0011.687 (0) Successfully created zip file manifest (size: 3290)
+0011.974 (0) Created uploads zip (0) - 18415.9 KB in 0.8 s (21853 KB/s) (sha1: 88bc565506fd2828fb36d59b16a85810132a944b, sha256: 87f6353ce9c44fca3fd72de4e728c6c56b7eb637fe73bcb08aba32dcd31aa1b8)
+0011.977 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.977 (0) No remote despatch: user chose no remote backup service
+0011.978 (0) Recording as successfully uploaded: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-uploads.zip
+0011.979 (0) Deleting zip manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-uploads.zip.list.tmp)
+0011.981 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0011.982 (0) Number of backup sets in history: 0; groups (db): 1
+0011.982 (0) Number of backup sets in history: 0; groups (files): 1
+0011.983 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0011.986 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0011.989 (0) Total entities for the zip file: 1 directories, 1 files (0 skipped as non-modified), 0 MB
+0012.001 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-mu-plugins.zip.tmp: size is now: 0.00 MB
+0012.003 (0) Creating zip file manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-mu-plugins.zip.list-temp.tmp)
+0012.004 (0) Successfully created zip file manifest (size: 77)
+0012.008 (0) Created mu-plugins zip (0) - 0.9 KB in 0 s (46.3 KB/s) (sha1: f13c2f1b293a3c4a3437aa69ac384cb78f4a3ad1, sha256: e636c833cfa08237a62c84bc6ba0b38e37198d2bfd6f41e6ccd26a0b32b1fe91)
+0012.010 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.010 (0) No remote despatch: user chose no remote backup service
+0012.011 (0) Recording as successfully uploaded: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-mu-plugins.zip
+0012.012 (0) Deleting zip manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-mu-plugins.zip.list.tmp)
+0012.014 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0012.015 (0) Number of backup sets in history: 0; groups (db): 1
+0012.015 (0) Number of backup sets in history: 0; groups (files): 1
+0012.015 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0012.018 (0) Beginning backup of other directories found in the content directory (index: 0)
+0012.019 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0012.019 (0) Looking for candidates to backup in: /home/u659881930/domains/vugar.pro/public_html/wp-content
+0012.020 (0) finding files: advanced-cache.php: adding to list (1)
+0012.020 (0) finding files: index.php: adding to list (2)
+0012.020 (0) finding files: object-cache.php: adding to list (3)
+0012.021 (0) finding files: wp-cache-config.php: adding to list (4)
+0012.021 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0012.022 (0) finding files: upgrade: skipping: excluded by options
+0012.022 (0) finding files: cache: skipping: excluded by options
+0012.022 (0) finding files: updraft: skipping: this is the updraft directory
+0012.023 (0) finding files: upgrade-temp-backup: adding to list (5)
+0012.023 (0) finding files: languages: adding to list (6)
+0012.023 (0) finding files: uploads: skipping: this is the uploads directory
+0012.024 (0) finding files: themes: skipping: this is the themes directory
+0012.024 (0) finding files: backup-migration-extQRoOL4c: skipping: excluded by options (glob)
+0012.025 (0) finding files: plugins: skipping: this is the plugins directory
+0012.025 (0) finding files: backup-migration-config.php: skipping: excluded by options (glob)
+0012.030 (0) Total entities for the zip file: 4 directories, 124 files (0 skipped as non-modified), 4.3 MB
+0012.041 (0) Zip: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.309 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-others.zip.tmp: size is now: 1.00 MB
+0012.312 (0) Creating zip file manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-others.zip.list-temp.tmp)
+0012.314 (0) Successfully created zip file manifest (size: 8003)
+0012.343 (0) Created others zip (0) - 1047.4 KB in 0.3 s (3311.2 KB/s) (sha1: d71620f8e95c990dac1fec06807f26bcc475baf5, sha256: 26706b675287684c8c5d43b098bdeb88ab20ccd84b1555dabf22f10a2d903073)
+0012.345 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.346 (0) No remote despatch: user chose no remote backup service
+0012.346 (0) Recording as successfully uploaded: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-others.zip
+0012.347 (0) Deleting zip manifest (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-others.zip.list.tmp)
+0012.349 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0012.350 (0) Number of backup sets in history: 0; groups (db): 1
+0012.350 (0) Number of backup sets in history: 0; groups (files): 1
+0012.350 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0012.356 (0) Saving backup status to database (elements: 10)
+0012.381 (0) Beginning creation of database dump (WordPress DB)
+0012.410 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0012.413 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0012.476 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1431 bytes total)
+0012.477 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0013.769 (0) Table wp_options: Total expected rows (via COUNT): 703
+0014.621 (0) Table wp_options: Rows added in this batch (next record: 7234): 699 (uncompressed bytes in this segment=24472453) in 2.14 seconds
+0014.626 (0) Table wp_options: finishing file(s) (2, 1995.5 KB)
+0014.629 (0) Table wp_users: Total expected rows (via COUNT): 1
+0014.630 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.631 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1168) in 0.00 seconds
+0014.634 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0014.638 (0) Table wp_usermeta: Total expected rows (via COUNT): 59
+0014.638 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.642 (0) Table wp_usermeta: Rows added in this batch (next record: 71): 59 (uncompressed bytes in this segment=78939) in 0.01 seconds
+0014.646 (0) Table wp_usermeta: finishing file(s) (2, 8.9 KB)
+0014.650 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 16
+0014.650 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.652 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 262): 16 (uncompressed bytes in this segment=8268) in 0.00 seconds
+0014.656 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.5 KB)
+0014.659 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0014.661 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=615) in 0.00 seconds
+0014.664 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0014.667 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0014.668 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.670 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=687) in 0.00 seconds
+0014.673 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0014.677 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 42
+0014.677 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.680 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 61): 42 (uncompressed bytes in this segment=5023) in 0.00 seconds
+0014.683 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1 KB)
+0014.748 (0) Table wp_commentmeta: Total expected rows (via COUNT): 4
+0014.749 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.751 (0) Table wp_commentmeta: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=847) in 0.07 seconds
+0014.755 (0) Table wp_commentmeta: finishing file(s) (2, 0.5 KB)
+0014.759 (0) Table wp_comments: Total expected rows (via COUNT): 2
+0014.759 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.761 (0) Table wp_comments: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=4142) in 0.00 seconds
+0014.764 (0) Table wp_comments: finishing file(s) (2, 1.8 KB)
+0014.818 (0) Table wp_links: Total expected rows (via COUNT): 0
+0014.820 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1017) in 0.05 seconds
+0014.824 (0) Table wp_links: finishing file(s) (2, 0.4 KB)
+0014.831 (0) Table wp_postmeta: Total expected rows (via COUNT): 634
+0014.831 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.840 (0) Table wp_postmeta: Rows added in this batch (next record: 1018): 634 (uncompressed bytes in this segment=58427) in 0.01 seconds
+0014.844 (0) Table wp_postmeta: finishing file(s) (2, 12.2 KB)
+0014.858 (0) Table wp_posts: Total expected rows (via COUNT): 268
+0014.858 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.891 (0) Table wp_posts: Rows added in this batch (next record: 315): 268 (uncompressed bytes in this segment=704783) in 0.04 seconds
+0014.895 (0) Table wp_posts: finishing file(s) (2, 79.9 KB)
+0014.899 (0) Table wp_term_relationships: Total expected rows (approximate): 42
+0014.901 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 42 (uncompressed bytes in this segment=1264) in 0.00 seconds
+0014.904 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0014.908 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 31
+0014.909 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0014.910 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 31): 31 (uncompressed bytes in this segment=1842) in 0.00 seconds
+0014.967 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0015.009 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0015.011 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=597) in 0.04 seconds
+0015.051 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0015.055 (0) Table wp_terms: Total expected rows (via COUNT): 31
+0015.055 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.058 (0) Table wp_terms: Rows added in this batch (next record: 31): 31 (uncompressed bytes in this segment=1932) in 0.00 seconds
+0015.095 (0) Table wp_terms: finishing file(s) (2, 0.8 KB)
+0015.189 (0) Table wp_ctf_feeds_posts: Total expected rows (via COUNT): 40
+0015.190 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.191 (0) Table wp_ctf_feeds_posts: Rows added in this batch (next record: 40): 40 (uncompressed bytes in this segment=3853) in 0.06 seconds
+0015.195 (0) Table wp_ctf_feeds_posts: finishing file(s) (2, 0.7 KB)
+0015.353 (0) Table wp_ctf_posts: Total expected rows (via COUNT): 40
+0015.354 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.357 (0) Table wp_ctf_posts: Rows added in this batch (next record: 40): 40 (uncompressed bytes in this segment=60821) in 0.16 seconds
+0015.362 (0) Table wp_ctf_posts: finishing file(s) (2, 10.1 KB)
+0015.392 (0) Table wp_fsmpt_email_logs: Total expected rows (via COUNT): 7
+0015.393 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.433 (0) Table wp_fsmpt_email_logs: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=13828) in 0.07 seconds
+0015.437 (0) Table wp_fsmpt_email_logs: finishing file(s) (2, 2.7 KB)
+0015.440 (0) Table wp_post_views: Total expected rows (approximate): 35
+0015.476 (0) Table wp_post_views: Rows added in this batch (next record: 1000): 35 (uncompressed bytes in this segment=1532) in 0.04 seconds
+0015.479 (0) Table wp_post_views: finishing file(s) (2, 0.6 KB)
+0015.566 (0) Table wp_rank_math_internal_links: Total expected rows (via COUNT): 44
+0015.566 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.622 (0) Table wp_rank_math_internal_links: Rows added in this batch (next record: 205): 44 (uncompressed bytes in this segment=4319) in 0.14 seconds
+0015.629 (0) Table wp_rank_math_internal_links: finishing file(s) (2, 1.2 KB)
+0015.687 (0) Table wp_rank_math_internal_meta: Total expected rows (via COUNT): 8
+0015.688 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.690 (0) Table wp_rank_math_internal_meta: Rows added in this batch (next record: 233): 8 (uncompressed bytes in this segment=819) in 0.06 seconds
+0015.693 (0) Table wp_rank_math_internal_meta: finishing file(s) (2, 0.4 KB)
+0015.746 (0) Table wp_rank_math_redirections: Total expected rows (via COUNT): 0
+0015.749 (0) Table wp_rank_math_redirections: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=927) in 0.05 seconds
+0015.752 (0) Table wp_rank_math_redirections: finishing file(s) (2, 0.5 KB)
+0015.756 (0) Table wp_rank_math_redirections_cache: Total expected rows (via COUNT): 0
+0015.757 (0) Table wp_rank_math_redirections_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=824) in 0.00 seconds
+0015.760 (0) Table wp_rank_math_redirections_cache: finishing file(s) (2, 0.4 KB)
+0015.845 (0) Table wp_vxcf_leads: Total expected rows (via COUNT): 6
+0015.846 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0015.848 (0) Table wp_vxcf_leads: Rows added in this batch (next record: 10): 6 (uncompressed bytes in this segment=2271) in 0.09 seconds
+0015.851 (0) Table wp_vxcf_leads: finishing file(s) (2, 0.7 KB)
+0016.007 (0) Table wp_vxcf_leads_detail: Total expected rows (via COUNT): 22
+0016.008 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.009 (0) Table wp_vxcf_leads_detail: Rows added in this batch (next record: 38): 22 (uncompressed bytes in this segment=1618) in 0.16 seconds
+0016.013 (0) Table wp_vxcf_leads_detail: finishing file(s) (2, 0.6 KB)
+0016.099 (0) Table wp_vxcf_leads_notes: Total expected rows (via COUNT): 0
+0016.153 (0) Table wp_vxcf_leads_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=710) in 0.14 seconds
+0016.157 (0) Table wp_vxcf_leads_notes: finishing file(s) (2, 0.4 KB)
+0016.247 (0) Table wp_wpc_accesslocks: Total expected rows (via COUNT): 0
+0016.248 (0) Table wp_wpc_accesslocks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.09 seconds
+0016.251 (0) Table wp_wpc_accesslocks: finishing file(s) (2, 0.4 KB)
+0016.350 (0) Table wp_wpc_login_fails: Total expected rows (via COUNT): 0
+0016.352 (0) Table wp_wpc_login_fails: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.10 seconds
+0016.355 (0) Table wp_wpc_login_fails: finishing file(s) (2, 0.4 KB)
+0016.407 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0016.408 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=680) in 0.05 seconds
+0016.462 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0016.567 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0016.569 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1640) in 0.10 seconds
+0016.572 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0016.656 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 4
+0016.657 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.658 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 5): 4 (uncompressed bytes in this segment=901) in 0.08 seconds
+0016.662 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0016.708 (0) Table wp_wpmailsmtp_debug_events: Total expected rows (via COUNT): 0
+0016.710 (0) Table wp_wpmailsmtp_debug_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=661) in 0.05 seconds
+0016.713 (0) Table wp_wpmailsmtp_debug_events: finishing file(s) (2, 0.4 KB)
+0016.761 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 1
+0016.762 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0016.764 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=694) in 0.05 seconds
+0016.768 (0) Table wp_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.4 KB)
+0016.769 (0) PHP event: code E_WARNING: filemtime(): stat failed for /home/u659881930/domains/vugar.pro/public_html/wp-content/updraft/backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db.gz (line 1976, wp-content/plugins/updraftplus/backup.php)
+0016.770 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_options.table.tmpr7235.gz (1/34/fopen): adding to final database dump
+0016.798 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_options.table.gz (2/34/fopen): adding to final database dump
+0016.799 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_users.table.tmpr2.gz (3/34/fopen): adding to final database dump
+0016.800 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_users.table.gz (4/34/fopen): adding to final database dump
+0016.800 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_usermeta.table.tmpr72.gz (5/34/fopen): adding to final database dump
+0016.801 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_usermeta.table.gz (6/34/fopen): adding to final database dump
+0016.802 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_actionscheduler_actions.table.tmpr263.gz (7/34/fopen): adding to final database dump
+0016.802 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_actionscheduler_actions.table.gz (8/34/fopen): adding to final database dump
+0016.803 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/34/fopen): adding to final database dump
+0016.804 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_actionscheduler_claims.table.gz (10/34/fopen): adding to final database dump
+0016.804 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/34/fopen): adding to final database dump
+0016.805 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_actionscheduler_groups.table.gz (12/34/fopen): adding to final database dump
+0016.805 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_actionscheduler_logs.table.tmpr62.gz (13/34/fopen): adding to final database dump
+0016.806 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_actionscheduler_logs.table.gz (14/34/fopen): adding to final database dump
+0016.806 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_commentmeta.table.tmpr5.gz (15/34/fopen): adding to final database dump
+0016.807 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_commentmeta.table.gz (16/34/fopen): adding to final database dump
+0016.807 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_comments.table.tmpr4.gz (17/34/fopen): adding to final database dump
+0016.808 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_comments.table.gz (18/34/fopen): adding to final database dump
+0016.808 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_links.table.tmpr0.gz (19/34/fopen): adding to final database dump
+0016.809 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_links.table.gz (20/34/fopen): adding to final database dump
+0016.809 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_postmeta.table.tmpr1019.gz (21/34/fopen): adding to final database dump
+0016.810 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_postmeta.table.gz (22/34/fopen): adding to final database dump
+0016.811 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_posts.table.tmpr316.gz (23/34/fopen): adding to final database dump
+0016.812 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_posts.table.gz (24/34/fopen): adding to final database dump
+0016.812 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_term_relationships.table.tmpr100001.gz (25/34/fopen): adding to final database dump
+0016.813 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_term_relationships.table.gz (26/34/fopen): adding to final database dump
+0016.813 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_term_taxonomy.table.tmpr32.gz (27/34/fopen): adding to final database dump
+0016.814 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_term_taxonomy.table.gz (28/34/fopen): adding to final database dump
+0016.814 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_termmeta.table.tmpr0.gz (29/34/fopen): adding to final database dump
+0016.815 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_termmeta.table.gz (30/34/fopen): adding to final database dump
+0016.815 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_terms.table.tmpr32.gz (31/34/fopen): adding to final database dump
+0016.816 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_terms.table.gz (32/34/fopen): adding to final database dump
+0016.816 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_ctf_feeds_posts.table.tmpr41.gz (33/34/fopen): adding to final database dump
+0016.817 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_ctf_feeds_posts.table.gz (34/34/fopen): adding to final database dump
+0016.817 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_ctf_posts.table.tmpr41.gz (35/34/fopen): adding to final database dump
+0016.818 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_ctf_posts.table.gz (36/34/fopen): adding to final database dump
+0016.818 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_fsmpt_email_logs.table.tmpr8.gz (37/34/fopen): adding to final database dump
+0016.819 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_fsmpt_email_logs.table.gz (38/34/fopen): adding to final database dump
+0016.819 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_post_views.table.tmpr1001.gz (39/34/fopen): adding to final database dump
+0016.819 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_post_views.table.gz (40/34/fopen): adding to final database dump
+0016.820 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_rank_math_internal_links.table.tmpr206.gz (41/34/fopen): adding to final database dump
+0016.820 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_rank_math_internal_links.table.gz (42/34/fopen): adding to final database dump
+0016.821 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_rank_math_internal_meta.table.tmpr234.gz (43/34/fopen): adding to final database dump
+0016.821 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_rank_math_internal_meta.table.gz (44/34/fopen): adding to final database dump
+0016.822 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_rank_math_redirections.table.tmpr0.gz (45/34/fopen): adding to final database dump
+0016.822 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_rank_math_redirections.table.gz (46/34/fopen): adding to final database dump
+0016.823 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_rank_math_redirections_cache.table.tmpr0.gz (47/34/fopen): adding to final database dump
+0016.823 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_rank_math_redirections_cache.table.gz (48/34/fopen): adding to final database dump
+0016.824 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_vxcf_leads.table.tmpr11.gz (49/34/fopen): adding to final database dump
+0016.824 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_vxcf_leads.table.gz (50/34/fopen): adding to final database dump
+0016.825 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_vxcf_leads_detail.table.tmpr39.gz (51/34/fopen): adding to final database dump
+0016.826 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_vxcf_leads_detail.table.gz (52/34/fopen): adding to final database dump
+0016.826 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_vxcf_leads_notes.table.tmpr0.gz (53/34/fopen): adding to final database dump
+0016.827 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_vxcf_leads_notes.table.gz (54/34/fopen): adding to final database dump
+0016.827 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpc_accesslocks.table.tmpr0.gz (55/34/fopen): adding to final database dump
+0016.828 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpc_accesslocks.table.gz (56/34/fopen): adding to final database dump
+0016.828 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpc_login_fails.table.tmpr0.gz (57/34/fopen): adding to final database dump
+0016.829 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpc_login_fails.table.gz (58/34/fopen): adding to final database dump
+0016.829 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (59/34/fopen): adding to final database dump
+0016.830 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpforms_payment_meta.table.gz (60/34/fopen): adding to final database dump
+0016.830 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpforms_payments.table.tmpr0.gz (61/34/fopen): adding to final database dump
+0016.830 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpforms_payments.table.gz (62/34/fopen): adding to final database dump
+0016.831 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpforms_tasks_meta.table.tmpr6.gz (63/34/fopen): adding to final database dump
+0016.831 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpforms_tasks_meta.table.gz (64/34/fopen): adding to final database dump
+0016.832 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpmailsmtp_debug_events.table.tmpr0.gz (65/34/fopen): adding to final database dump
+0016.832 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpmailsmtp_debug_events.table.gz (66/34/fopen): adding to final database dump
+0016.833 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpmailsmtp_tasks_meta.table.tmpr2.gz (67/34/fopen): adding to final database dump
+0016.833 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db-table-wp_wpmailsmtp_tasks_meta.table.gz (68/34/fopen): adding to final database dump
+0016.844 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db.gz: finished writing out complete database file (2126.6 KB)
+0016.881 (0) Total database tables backed up: 34 (backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db.gz, size: 2177786, sha1: 275da186a5711f85d519b4f5bc9147466b75e4bd, sha256: eb4e40678eb3f0866d53f095efd0eec325cae55ed0df26a21917a4c485eeb295)
+0016.884 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-plugins.zip: plugins: This file has already been successfully uploaded
+0016.885 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-themes.zip: themes: This file has already been successfully uploaded
+0016.885 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-uploads.zip: uploads: This file has already been successfully uploaded
+0016.886 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-mu-plugins.zip: mu-plugins: This file has already been successfully uploaded
+0016.886 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-others.zip: others: This file has already been successfully uploaded
+0016.886 (0) backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db.gz: db: This file has not yet been successfully uploaded: will queue
+0016.887 (0) Saving backup history. Total backup size: 58.4 MB
+0016.888 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0016.890 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0016.891 (0) No remote despatch: user chose no remote backup service
+0016.891 (0) Recording as successfully uploaded: backup_2023-12-31-1506_vugarpro_98a1ef4c9b17-db.gz
+0016.893 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.895 (0) Number of backup sets in history: 1; groups (db): 1
+0016.895 (0) Examining (for databases) backup set with group_id=0, nonce=98a1ef4c9b17, datestamp=1704031568 (Dec 31 2023 14:06:08)
+0016.896 (0) This backup set is the backup set just made, so will not be deleted.
+0016.896 (0) Number of backup sets in history: 1; groups (files): 1
+0016.896 (0) Examining (for files) backup set with nonce=98a1ef4c9b17, datestamp=1704031568 (Dec 31 2023 14:06:08)
+0016.896 (0) This backup set is the backup set just made, so will not be deleted.
+0016.897 (0) This backup set is the backup set just made, so will not be deleted.
+0016.897 (0) This backup set is the backup set just made, so will not be deleted.
+0016.897 (0) This backup set is the backup set just made, so will not be deleted.
+0016.897 (0) This backup set is the backup set just made, so will not be deleted.
+0016.897 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0016.897 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0016.899 (0) Resume backup (98a1ef4c9b17, 0): finish run
+0016.901 (0) Decremented the semaphore (fd) by 1
+0016.901 (0) Semaphore (fd) unlocked
+0016.902 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0016.905 (0) No email will/can be sent - the user has not configured an email address.
+0016.905 (0) The backup succeeded and is now complete
