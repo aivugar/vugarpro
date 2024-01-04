@@ -2,20 +2,20 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://aitoolsedu.com/</loc>
-		<lastmod>2024-01-04T01:29:20+00:00</lastmod>
+		<lastmod>2024-01-04T20:32:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/</loc>
-		<lastmod>2024-01-04T01:29:20+00:00</lastmod>
+		<loc>https://aitoolsedu.com/effective-academic-literature-review-with-scispace/</loc>
+		<lastmod>2024-01-04T20:32:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Microsoft-Artificial-Intelligence-Course.jpeg</image:loc>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scispace-AI-Powered-Paraphraser.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://aitoolsedu.com/screen-studio-video-recorder-mac-users/</loc>
-		<lastmod>2024-01-04T01:03:28+00:00</lastmod>
+		<loc>https://aitoolsedu.com/find-credible-academic-sources-with-scite/</loc>
+		<lastmod>2024-01-04T20:25:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Screenshot-2023-12-20-at-20.09.00.png</image:loc>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scite-Academic-Research.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
