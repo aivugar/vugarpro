@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>vugarpro</title>
+	<title>AI Tools for Education</title>
 	<atom:link href="https://aitoolsedu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aitoolsedu.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 04 Jan 2024 01:17:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jan 2024 01:29:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -26,7 +26,7 @@
 		
 		<dc:creator><![CDATA[Vugar]]></dc:creator>
 		<pubDate>Thu, 04 Jan 2024 01:15:40 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Courses]]></category>
 		<guid isPermaLink="false">https://aitoolsedu.com/?p=43</guid>
 
 					<description><![CDATA[What is a Data Science Course? &#8230;<p class="read-more"> <a class="ast-button" href="https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/"> <span class="screen-reader-text">Data Science Course FREE for Beginners by Azure Cloud Advocates at Microsoft</span> Read More »</a></p>]]></description>
@@ -79,7 +79,7 @@
 		
 		<dc:creator><![CDATA[Vugar]]></dc:creator>
 		<pubDate>Thu, 04 Jan 2024 00:22:31 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Productivity Tools]]></category>
 		<guid isPermaLink="false">https://aitoolsedu.com/?p=1</guid>
 
 					<description><![CDATA[What is Screen Studio? As a &#8230;<p class="read-more"> <a class="ast-button" href="https://aitoolsedu.com/screen-studio-video-recorder-mac-users/"> <span class="screen-reader-text">Screen Studio: Number 1 Tool for Creating Captivating Video Tutorials on Mac</span> Read More »</a></p>]]></description>
