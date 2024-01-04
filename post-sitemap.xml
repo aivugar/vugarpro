@@ -2,13 +2,71 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://aitoolsedu.com/</loc>
-		<lastmod>2024-01-04T20:32:29+00:00</lastmod>
+		<lastmod>2024-01-04T21:42:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/</loc>
+		<lastmod>2024-01-04T21:42:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Microsoft-Artificial-Intelligence-Course-1.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://aitoolsedu.com/effective-academic-literature-review-with-scispace/</loc>
-		<lastmod>2024-01-04T20:32:29+00:00</lastmod>
+		<lastmod>2024-01-04T21:37:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scispace-AI-Powered-Paraphraser.png</image:loc>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2023/12/Scispace-Literature-Review-Tool-X-First-Photo-no-watermark.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/scispace-paraphrase-scholarly-paraphrasing-tool-tool/</loc>
+		<lastmod>2024-01-04T21:36:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scispace-AI-Powered-Paraphraser-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/screen-studio-video-recorder-mac-users/</loc>
+		<lastmod>2024-01-04T21:26:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Screenshot-2023-12-20-at-20.09.00-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/pdf-ai-chat-with-documents-artificial-intelligence/</loc>
+		<lastmod>2024-01-04T21:24:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Screenshot-2023-12-20-at-20.31.34.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/9.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/10.png</image:loc>
 		</image:image>
 	</url>
 	<url>

@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Courses &#8211; Vugar Ibrahimov</title>
+	<title>Courses &#8211; AI Tools for Education</title>
 	<atom:link href="https://aitoolsedu.com/category/courses/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aitoolsedu.com/</link>
-	<description>AI Tools for Education</description>
-	<lastBuildDate>Thu, 04 Jan 2024 01:29:20 +0000</lastBuildDate>
+	<description>Vugar Ibrahimov</description>
+	<lastBuildDate>Thu, 04 Jan 2024 21:42:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,17 +22,14 @@
 	<item>
 		<title>Data Science Course FREE for Beginners by Azure Cloud Advocates at Microsoft</title>
 		<link>https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/</link>
-					<comments>https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/#respond</comments>
 		
 		<dc:creator><![CDATA[Vugar]]></dc:creator>
-		<pubDate>Thu, 04 Jan 2024 01:15:40 +0000</pubDate>
+		<pubDate>Sun, 24 Dec 2023 21:38:52 +0000</pubDate>
 				<category><![CDATA[Courses]]></category>
-		<guid isPermaLink="false">https://aitoolsedu.com/?p=43</guid>
+		<guid isPermaLink="false">https://aitoolsedu.com/?p=99</guid>
 
-					<description><![CDATA[What is a Data Science Course? &#8230;<p class="read-more"> <a class="ast-button" href="https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/"> <span class="screen-reader-text">Data Science Course FREE for Beginners by Azure Cloud Advocates at Microsoft</span> Read More »</a></p>]]></description>
+					<description><![CDATA[What is a Data Science Course? [&#8230;]]]></description>
 		
-					<wfw:commentRss>https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
