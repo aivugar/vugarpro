@@ -2,13 +2,20 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://aitoolsedu.com/</loc>
-		<lastmod>2024-01-06T00:31:52+00:00</lastmod>
+		<lastmod>2024-01-06T00:38:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://aitoolsedu.com/scite-ai-better-than-chatgpt-access-real-citations/</loc>
-		<lastmod>2024-01-06T00:31:52+00:00</lastmod>
+		<lastmod>2024-01-06T00:38:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scite-Academic-Research-and-Literature-Review.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/find-credible-academic-sources-with-scite/</loc>
+		<lastmod>2024-01-06T00:38:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scite-Academic-Research.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -30,13 +37,6 @@
 		<lastmod>2024-01-04T21:59:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://aitoolsedu.com/wp-content/uploads/2023/12/Scispace-Literature-Review-Tool-X-First-Photo-no-watermark.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://aitoolsedu.com/find-credible-academic-sources-with-scite/</loc>
-		<lastmod>2024-01-04T21:58:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scite-Academic-Research.png</image:loc>
 		</image:image>
 	</url>
 	<url>
