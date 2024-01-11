@@ -1,51 +1,94 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://aitoolsedu.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.17' -->
-<!-- generated-on='January 10, 2024 5:29 pm' -->
-<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://aitoolsedu.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://aitoolsedu.com/</loc>
+		<lastmod>2024-01-06T00:38:58+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://aitoolsedu.com/scite-ai-better-than-chatgpt-access-real-citations/</loc>
 		<lastmod>2024-01-06T00:38:58+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>https://aitoolsedu.com/ai-for-everyone-course-7-hours-career-certificate/</loc>
-		<lastmod>2024-01-06T00:06:41+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/</loc>
-		<lastmod>2024-01-04T22:07:47+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>https://aitoolsedu.com/scispace-paraphrase-scholarly-paraphrasing-tool-tool/</loc>
-		<lastmod>2024-01-04T21:36:18+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>https://aitoolsedu.com/pdf-ai-chat-with-documents-artificial-intelligence/</loc>
-		<lastmod>2024-01-04T21:24:28+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>https://aitoolsedu.com/screen-studio-video-recorder-mac-users/</loc>
-		<lastmod>2024-01-04T21:26:28+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>https://aitoolsedu.com/effective-academic-literature-review-with-scispace/</loc>
-		<lastmod>2024-01-04T21:59:28+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scite-Academic-Research-and-Literature-Review.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://aitoolsedu.com/find-credible-academic-sources-with-scite/</loc>
 		<lastmod>2024-01-06T00:38:02+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scite-Academic-Research.png</image:loc>
+		</image:image>
 	</url>
-</urlset><!-- Request ID: 3f5495ea3e0d24e0201eaf735dacb9e8; Queries for sitemap: 2; Total queries: 49; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 12MB -->
+	<url>
+		<loc>https://aitoolsedu.com/ai-for-everyone-course-7-hours-career-certificate/</loc>
+		<lastmod>2024-01-06T00:06:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/AI-For-Everyone-Course.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/free-data-science-course-for-beginners-by-microsoft/</loc>
+		<lastmod>2024-01-04T22:07:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Microsoft-Artificial-Intelligence-Course-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/effective-academic-literature-review-with-scispace/</loc>
+		<lastmod>2024-01-04T21:59:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2023/12/Scispace-Literature-Review-Tool-X-First-Photo-no-watermark.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/scispace-paraphrase-scholarly-paraphrasing-tool-tool/</loc>
+		<lastmod>2024-01-04T21:36:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Scispace-AI-Powered-Paraphraser-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/screen-studio-video-recorder-mac-users/</loc>
+		<lastmod>2024-01-04T21:26:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Screenshot-2023-12-20-at-20.09.00-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aitoolsedu.com/pdf-ai-chat-with-documents-artificial-intelligence/</loc>
+		<lastmod>2024-01-04T21:24:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/Screenshot-2023-12-20-at-20.31.34.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/9.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aitoolsedu.com/wp-content/uploads/2024/01/10.png</image:loc>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->
