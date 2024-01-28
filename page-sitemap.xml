@@ -36,12 +36,6 @@
 			<image:loc>https://aitoolsedu.com/wp-content/themes/astra/inc/assets/images/starter-content/avatar.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://aitoolsedu.com/wp-content/themes/astra/inc/assets/images/starter-content/passionate.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aitoolsedu.com/wp-content/themes/astra/inc/assets/images/starter-content/professional.svg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>https://aitoolsedu.com/wp-content/themes/astra/inc/assets/images/starter-content/support.svg</image:loc>
 		</image:image>
 	</url>
